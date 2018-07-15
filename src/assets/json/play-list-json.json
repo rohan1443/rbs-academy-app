@@ -1,0 +1,70 @@
+{
+  "Dubstep": [
+    {
+      "name": "Song - 1",
+      "artistName": "Artist - 1",
+      "length": "4:28"
+    },
+    {
+      "name": "Song - 2",
+      "artistName": "Artist - 2",
+      "length": "4:28"
+    },
+    {
+      "name": "Song - 3",
+      "artistName": "Artist - 3",
+      "length": "4:28"
+    }
+  ],
+  "Classic": [
+    {
+      "name": "Song - 4",
+      "artistName": "Artist - 4",
+      "length": "4:28"
+    },
+    {
+      "name": "Song - 5",
+      "artistName": "Artist - 5",
+      "length": "4:28"
+    },
+    {
+      "name": "Song - 6",
+      "artistName": "Artist - 6",
+      "length": "4:28"
+    }
+  ],
+  "Pop": [
+    {
+      "name": "Song - 7",
+      "artistName": "Artist - 7",
+      "length": "4:28"
+    },
+    {
+      "name": "Song - 8",
+      "artistName": "Artist - 8",
+      "length": "4:28"
+    },
+    {
+      "name": "Song - 9",
+      "artistName": "Artist - 9",
+      "length": "4:28"
+    }
+  ],
+  "Country": [
+    {
+      "name": "Song - 10",
+      "artistName": "Artist - 10",
+      "length": "4:28"
+    },
+    {
+      "name": "Song - 11",
+      "artistName": "Artist - 11",
+      "length": "4:28"
+    },
+    {
+      "name": "Song - 12",
+      "artistName": "Artist - 12",
+      "length": "4:28"
+    }
+  ]
+}
